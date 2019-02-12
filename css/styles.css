@@ -1,9 +1,10 @@
+/* Common Features */
+
+
+
+/* HTML Tags */
 body {
   font-family: "Montserrat";
-}
-
-#title {
-  background-color: #ff4c68;
 }
 
 h1 {
@@ -31,6 +32,11 @@ p {
 
 .container-fluid {
   padding: 3% 15% 7%;
+}
+
+/* Title Section */
+#title {
+  background-color: #ff4c68;
 }
 
 /* Nav Bar */
