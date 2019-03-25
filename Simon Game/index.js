@@ -30,7 +30,6 @@ $(".btn").click(function() {
   userClickPattern.push(userChosenColor);
   checkAnswer(userClickPattern.length - 1);
 })
-
 //-------------------------------------------------
 //Check click event with random pattern
 function checkAnswer(currentLevel) {
